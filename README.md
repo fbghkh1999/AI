@@ -1,4 +1,4 @@
 # Ai
-Local AI Algorithm
+##Local AI Algorithm
 ## 15puzzle game
 
